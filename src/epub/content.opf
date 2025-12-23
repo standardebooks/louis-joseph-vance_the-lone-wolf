@@ -41,6 +41,8 @@
 		<meta property="term" refines="#subject-1">sh2008106062</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A skilled thief, pursued for his past crimes, is faced with a choice between a lonely life of crime and love.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;On a wet winter night in Paris, a mysterious boy is abandoned at the rastaurant Troyon’s. Without even a name, the boy makes a new life for himself under the stern care of the owners, and through one of Troyon’s guests is introduced to the criminal underworld. Years later, the boy now named Michael Lanyard is a seasoned jewel thief, learned in mathematics, mechanics, and civilived society. Now on the run, Michael Lanyard—The Lone Wolf—returns to his home of Paris and must choose between the loney life of a criminal and the possibility of newfound love.&lt;/p&gt;
